@@ -161,7 +161,7 @@ The notebook demonstrates:
 Install missing packages:
 
 ```bash
-pip install <package-name>
+pip install numpy pandas matplotlib seaborn scipy 
 ```
 
 #### Notebook Not Opening
