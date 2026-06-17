@@ -80,8 +80,7 @@ The notebook includes:
 
 ### Clone the repository
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/JenilMP-09/Syntecxhub_Statistical_Plots_And_Distribution_Analysis
 ```
 
 ### Install dependencies
