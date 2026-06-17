@@ -184,16 +184,13 @@ pip install notebook
 
 ---
 
-## Contributors
+## Author
 
-Developed for statistical distribution analysis and visualization practice.
+**Jenil M. Panchal**   
+(Data Science Enthusiast)
 
 ---
 
 ## License
 
-This project is intended for educational and analytical purposes.
-
-You may modify and use it for learning and research.
-
----
+This project is licensed under the [MIT License](LICENSE).
